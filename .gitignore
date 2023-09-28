@@ -1,0 +1,12 @@
+.env
+/vendor
+/node_modules
+/storage/logs
+/storage/app/public
+composer.lock
+package-lock.json
+error_log
+phpunit.xml
+.htaccess.phpupgrader.2052fc5c
+.htaccess.phpupgrader.initial
+cmms_backup.zip
